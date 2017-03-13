@@ -1,5 +1,8 @@
 _repo: The-Depot-Master_2307
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lincoln, Joseph Crosby
@@ -13,6 +16,8 @@ description: '"The conductor waved his hand, the engine puffed, the bell rang, a
   by the outside world." Delightful old novel about Captain Solomon Berry, who is
   the Depot Master in East Harniss. With unsurpassed opportunities for observing the
   people and events of the village, he himself becomes involved in his own love affair.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2307#The-Depot-Master
 gutenberg_issued: '2006-05-17'
 gutenberg_type: Text
 identifiers:
